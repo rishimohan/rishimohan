@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi, I'm Rishi. I'm into front-end, design and building apps.
 
-<!--
-**rishimohan/rishimohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stack of choice: **Next.js**, **TailwindCSS**, **Supabase**
 
-Here are some ideas to get you started:
+Building:
+- [Kizie, twitter client for web](https://kizie.co)
+- [Pika, app to beautify screenshots](https://pika.rishimohan.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built:
+- [Maazi, journal app with text and audio entries](https://maazi.vercel.app)
+- [Codezen, app to generate image from code](https://codezen.rishimohan.me)
+- [Qurb, mockup generator](https://qurb.rishimohan.me)
+
+Personal links:
+- [Website](https://rishimohan.me)
+- [Twitter](https://twitter.com/thelifeofrishi)
