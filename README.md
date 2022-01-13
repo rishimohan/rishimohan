@@ -3,7 +3,7 @@ Hi, I'm Rishi. I'm into front-end, design and building apps.
 Stack of choice: **Next.js**, **TailwindCSS**, **Supabase**
 
 Building:
-- [Kizie, twitter client for web](https://kizie.co)
+- [Kizie, twitter client for web](https://kizie.co) with [thread maker](https://kizie.co/compose) and [tweet to image](https://kizie.co/tools/twitter-image)
 - [Pika, app to beautify screenshots](https://pika.rishimohan.me)
 
 Built:
