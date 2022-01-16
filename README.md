@@ -7,7 +7,7 @@ Building:
 - [Pika, app to beautify screenshots](https://pika.rishimohan.me)
 
 Built:
-- [Maazi, journal app with text and audio entries](https://maazi.vercel.app)
+- [Maazi, journal app with text and audio entries](https://maazi.vercel.app), [iOS App](https://apps.apple.com/us/app/maazi-personal-diary/id1535320472)
 - [Codezen, app to generate image from code](https://codezen.rishimohan.me)
 - [Qurb, mockup generator](https://qurb.rishimohan.me)
 
