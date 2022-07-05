@@ -4,7 +4,7 @@ Stack of choice: **Next.js**, **TailwindCSS**, **Supabase**
 
 Building:
 - [Kizie, twitter client for web](https://kizie.co) with [thread maker](https://kizie.co/compose) and [tweet to image](https://kizie.co/tools/twitter-image)
-- [Pika, app to beautify screenshots](https://pika.style), with [open graph image generator](https://pika.style/open-graph-generator) / ⭐️ [**Semi open source**](http://github.com/rishimohan/pika)
+- [Pika, app to design screenshots, browser mockups](https://pika.style) and [open graph image generator](https://pika.style/open-graph-generator) / ⭐️ [**Semi open source**](http://github.com/rishimohan/pika)
 - [lil UI](https://lil.rishimohan.me), a set of minimalistic SIY(style it yourself) React components / ⭐️ [**Open Source**](http://github.com/rishimohan/lil-ui)
 
 Built:
