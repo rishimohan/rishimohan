@@ -10,7 +10,7 @@ Building:
   - [create code screenshots](https://pika.style/templates/web/code-image)
   - [create tweet images](https://pika.style/templates/web/tweet-image)
   - and other [mockup templates](https://pika.style/templates) for various use cases
-- [lil UI](https://lil.rishimohan.me), a set of open-source and minimalistic SIY(style it yourself) React components(http://github.com/rishimohan/lil-ui)
+- [lil UI](https://lil.rishimohan.me), a set of open-source and minimalistic SIY(style it yourself) React components
 
 Built:
 - [Maazi, journal app with text and audio entries](https://maazi.vercel.app), [iOS App](https://apps.apple.com/us/app/maazi-personal-diary/id1535320472)
