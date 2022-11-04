@@ -5,7 +5,7 @@ Stack of choice: **Next.js**, **TailwindCSS**, **Radix UI**, **Supabase**
 Building:
 - [Kizie, twitter client for web](https://kizie.co) with [thread maker](https://kizie.co/compose) and [tweet to image](https://kizie.co/tools/twitter-image)
 - Pika, a semi-open source app to quickly design better images, it has multiple tools
-  - [screenshot design tool](https://pika.style)
+  - [screenshot and website mockup tool](https://pika.style)
   - [generate open graph images](https://pika.style/open-graph-generator)
   - [create code screenshots](https://pika.style/templates/web/code-image)
   - [create tweet images](https://pika.style/templates/web/tweet-image)
