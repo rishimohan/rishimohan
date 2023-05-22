@@ -3,7 +3,7 @@ Hi, I'm Rishi. I'm into front-end, design, building SaaS and open-source.
 Stack of choice: **Next.js**, **TailwindCSS**, **Radix UI**, **Supabase**
 
 Building:
-- Pika, a [semi-open source canva alternative app](https://pika.style) to quickly design better images, it has multiple tools
+- Pika, a [semi open-source canva alternative app](https://pika.style) to quickly design better images, it has multiple tools
   - [generate open graph images](https://pika.style/open-graph-generator)
   - [create code screenshots](https://pika.style/templates/web/code-image)
   - [create tweet images](https://pika.style/templates/web/tweet-image)
