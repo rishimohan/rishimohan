@@ -5,8 +5,9 @@ Stack of choice: **Next.js**, **TailwindCSS**, **Radix UI**, **Supabase**
 Building:
 - Pika, a [semi open-source canva alternative app](https://pika.style) to quickly design better images, it has multiple tools
   - [generate open graph images](https://pika.style/open-graph-generator)
-  - [create code screenshots](https://pika.style/templates/web/code-image)
-  - [create tweet images](https://pika.style/templates/web/tweet-image)
+  - [create code screenshots](https://pika.style/templates/code-image)
+  - [create tweet images](https://pika.style/templates/tweet-image)
+  - [icon generator](https://pika.style/templates/icon-image-maker)
   - and other [mockup templates](https://pika.style/templates) for various use cases
 - [lil UI](https://lil.rishimohan.me), a set of open-source and minimalistic SIY(style it yourself) React components
 
