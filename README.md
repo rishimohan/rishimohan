@@ -3,7 +3,8 @@ Hi, I'm Rishi. I'm into front-end, design, building SaaS and open-source.
 Stack of choice: **Next.js**, **TailwindCSS**, **Radix UI**, **Supabase**, **Node**
 
 Building:
-- Pika, [screenshot editor](https://pika.style/screenshot-editor) and [API for image generation](https://pika.style/image-generation-api/templates)
+- Pika, [beautiful screenshot and mockups](https://pika.style/)
+- Orshot, [API for Image and PDF generation](https://orshot.com)
 
 Built:
 - [Kizie, twitter client for web](https://kizie.co)
