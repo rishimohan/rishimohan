@@ -4,7 +4,7 @@ Stack of choice: **Next.js**, **TailwindCSS**, **Radix UI**, **Supabase**, **Nod
 
 Building:
 - Pika, [beautiful screenshot and mockups](https://pika.style/)
-- Orshot, [Image generation API](https://orshot.com)
+- Orshot, [visual content automation](https://orshot.com)
 
 Built:
 - [Kizie, twitter client for web](https://kizie.co)
