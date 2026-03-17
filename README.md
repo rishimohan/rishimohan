@@ -3,7 +3,7 @@ Hi, I'm Rishi. Founder at [DaSkrad](https://daskrad.com). I'm into design, engin
 Stack of choice: **Next.js**, **TailwindCSS**, **Radix UI**, **Supabase**, **Node**
 
 Building:
-- Orshot, [API for automated video, image and pdf generation](https://orshot.com)
+- Orshot, [automated content creation and social posting](https://orshot.com)
 - Pika, [beautiful screenshot and mockups](https://pika.style/)
 
 Built:
