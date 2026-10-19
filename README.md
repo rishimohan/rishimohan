@@ -1,10 +1,11 @@
 Hi, I'm Rishi. Founder at [DaSkrad](https://daskrad.com). I'm into design, engineering, building SaaS and open-source
 
-Stack of choice: **Next.js**, **TailwindCSS**, **Radix UI**, **Supabase**, **Node**
+Stack of choice: **Next.js**, **Stripe**, **TailwindCSS**, **Radix UI**, **Supabase**, **Node**
 
 Building:
-- Orshot, [automated content creation and social posting](https://orshot.com)
-- Pika, [beautiful screenshot and mockups](https://pika.style/)
+- Muzekit, [WIP](https://muzekit.com) (live since Oct 1, 2026)
+- Orshot, [automated content creation and social posting](https://orshot.com) (live since March 1, 2024, **$$$$** MRR, **$$$$$** total rev.)
+- Pika, [beautiful screenshot and mockups](https://pika.style/) (live since Feb, 2021, **$$** MRR, **$$$$$$** total rev.)
 
 Built:
 - [Kizie, twitter client for web](https://kizie.co)
