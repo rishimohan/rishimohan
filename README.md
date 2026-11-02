@@ -4,7 +4,7 @@ Stack of choice: **Next.js**, **Stripe**, **TailwindCSS**, **Radix UI**, **Supab
 
 Building:
 - Muzekit, [WIP](https://muzekit.com) (live since Oct 1, 2026)
-- Orshot, [automated content creation and social posting](https://orshot.com) (live since March 1, 2024, **$$$$** MRR, **$$$$$** total rev.)
+- Orshot, [automated content creation and social posting](https://orshot.com) (live since March 1, 2024, **$$$$$** MRR, **$$$$$** total rev.)
 - Pika, [beautiful screenshot and mockups](https://pika.style/) (live since Feb, 2021, **$$** MRR, **$$$$$$** total rev.)
 
 Built:
